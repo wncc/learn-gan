@@ -7,14 +7,14 @@ The *only* prerequisite for this course is **basic Python proficiency**. With th
 
 ### Week 1 | Getting Started
 
-- To get a basic understanding what a Neural Network is, watch this excellent playlist by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
+- To get a basic understanding what a Neural Network is, watch this excellent playlist by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi). 
 
 - Now, to build your own Neural Network, try completing this short course by Andrew NG - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning). You can opt for Financial aid, if you need to.
 
-- It is sometimes overwhelming to visualise how a neural network improves its performance over time. This website will allow you to do just the same - [Neural Network Playground](https://playground.tensorflow.org/)   
+- It is sometimes overwhelming to visualise how a neural network improves its performance over time. This website will allow you to do just the same - [Neural Network Playground](https://playground.tensorflow.org/).   
 P.S. - You might come across new terms here. Instead of just overlooking them, try finding out what they mean. You could google them or just visit our [Wiki](https://www.wncc-iitb.org/wiki/) page on [Deep Learning](https://www.wncc-iitb.org/wiki/index.php/Deep_Learning).
 
-- Exhausted by all the math? Here's an article to get you motivativated - [Applications of GANs](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
+- Exhausted by all the math? Here's an article to get you motivativated - [Applications of GANs](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900).
 
 
 ### Week 2-3 | Learning Pytorch
@@ -38,14 +38,14 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 	+ [CNN in PyTorch](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/)
 	+ [CNN in PyTorch (2)](https://algorithmia.com/blog/convolutional-neural-nets-in-pytorch)
 
-- [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) is an established computer-vision dataset. Attempt a related challenge on Kaggle - [Object Recognition](https://www.kaggle.com/c/cifar-10)
+- [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) is an established computer-vision dataset. Attempt a related challenge on Kaggle - [Object Recognition](https://www.kaggle.com/c/cifar-10).
 
-- Try implementing CNN models for classification problems on your own. This article will guide you as to how you can [Create your own dataset](https://towardsdatascience.com/how-to-create-your-own-image-dataset-for-deep-learning-b53f1c22c443)
+- Try implementing CNN models for classification problems on your own. This article will guide you as to how you can [Create your own dataset](https://towardsdatascience.com/how-to-create-your-own-image-dataset-for-deep-learning-b53f1c22c443).
 
 
 ### Week 6 | GANs
 
-- At last, we will now start with GANs. In case you have never read a research paper before, here is a guide to get you started - [How to Read a Research Paper](https://www.youtube.com/watch?v=SHTOI0KtZnU)
+- At last, we will now start with GANs. In case you have never read a research paper before, here is a guide to get you started - [How to Read a Research Paper](https://www.youtube.com/watch?v=SHTOI0KtZnU).
 
 - It might be overwhelming to read this paper but it is strongly recommended that you do - [GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf). 
 
@@ -70,7 +70,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 
 - You can try implementing these from their research papers to get a better understanding. If you find it difficult to get started, PyTorch provides an [Implementation of DCGANs](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) as well.
 
-- Finally, try attempting this [Assignment](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/assignments/a4-handout.pdf). Here are the [Solutions](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/assignments/a4-code.zip)
+- Finally, try attempting this [Assignment](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/assignments/a4-handout.pdf). Here are the [Solutions](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/assignments/a4-code.zip).
 
 ### Conclusion
 
