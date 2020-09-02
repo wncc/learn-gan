@@ -26,7 +26,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - You can now do further PyTorch [tutorials](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html). The above course would help you understand these examples better. Make your own [Google Colab](https://colab.research.google.com/) notebooks and tinker around. It's important to try out various values of hyperparameters for better practical learning.
 
 
-### Week 4 | Attempting a Kaggle Problem
+### Week 4 | Attempting a Kaggle Challenge
 
 - [MNIST](http://yann.lecun.com/exdb/mnist/) dataset is a large database of handwritten digits. Pytorch has a [tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html) to train your NN on the MNIST dataset. You can leave the [CNN](https://pytorch.org/tutorials/beginner/nn_tutorial.html#switch-to-cnn) part for now.
 
