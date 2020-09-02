@@ -57,7 +57,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 
 - Now that you have understood how a GAN works, you can try implementing GANs for simple datasets. You can refer to the code given here - [PyTorch GANs](https://github.com/tezansahu/PyTorch-GANs). You can leave DCGANs for now.
 
-- Also read this article for for some [Tips to make GANs work].
+- Also read this article for for some [Tips to make GANs work](https://github.com/soumith/ganhacks).
 
 ### Week 8 | Tinkering Around
 
@@ -74,7 +74,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 
 ### Conclusion
 
-We hope this plan helps you in getting a better understanding of *the most interesting idea in the last 10 years in Machine Learning* as described by Yann LeCun. If on your learning path you discover some more efficient resources, we would be more than happy to incorporate them here. Just [create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on this repository.
+We hope this plan helps you in getting a better understanding of **"the most interesting idea in the last 10 years in Machine Learning"** as described by Yann LeCun. If on your learning path you discover some more efficient resources, we would be more than happy to incorporate them here. Just [create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on this repository.
 
 ***
 
